@@ -24,3 +24,4 @@ h0 = int(input('Base (tri) :'))
 B  = int(input('Height (tri) :'))
 A_tri = 0.5*h0*B
 print ('Area of Triangle', A_tri)
+#give me access

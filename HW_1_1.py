@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 Cesar Laguna
-Python 3.6
+Python 3.6.1
 '''
 import numpy as np
 '''
